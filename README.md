@@ -1,2 +1,3 @@
 # Loan-Approval-Prediction
-The aim of this project is to apply machine learning and data analysis to develop models and algorithms that predict loan approval likelihood based on given features
+* The aim of this project is to leverage machine learning and data analysis techniques to develop models and algorithms capable of predicting the likelihood of loan approval based on specified features.
+* The dataset used for this project is available in the same repository as a CSV file.
